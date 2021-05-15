@@ -1,1 +1,1 @@
-git exercise ScenarioB
+git exercise scenarioB
